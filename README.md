@@ -1,6 +1,6 @@
-# music
-to run install these module 
-1.vlc
-pip install python-vlc
-2. time 
-inbuilt
+# music<br>
+to run install these module <br>
+1.vlc<br>
+pip install python-vlc<br>
+2. time <br>
+inbuilt<br>
